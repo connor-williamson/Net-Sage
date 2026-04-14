@@ -1,4 +1,4 @@
-# NetSage
+# Net-Sage
 
 NetSage is an AI-driven network monitoring and security analysis platform.
 
